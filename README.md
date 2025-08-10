@@ -262,11 +262,15 @@ If you encounter any issues or have questions:
 3. Review the API documentation at http://localhost:8000/docs
 
 ## 📁 Screenshots
-![Description](Screenshot%202025-08-10%20154357.png)
+![Negative Sentiment](Screenshot%202025-08-10%20154357.png)
+![Positive Sentiment](Screenshot%202025-08-10%20154450.png)
+![Neutral Sentiment](Screenshot%202025-08-10%20154520.png)
+
 ---
 
 
 **Happy Analyzing! 🎭✨**
+
 
 
 
