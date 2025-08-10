@@ -18,8 +18,6 @@ A modern AI-powered sentiment analysis application that uses the **Mistral langu
 
 ## 📁 Project Files
 
-After creating the project directory, you'll need these files:
-
 ```
 sentiment-analyzer-mistral/
 │
@@ -36,9 +34,6 @@ sentiment-analyzer-mistral/
 ├── README.md               # Documentation
 └── .gitignore             # Git ignore rules
 ```
-
-Copy the code from the provided artifacts to create each file.
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -267,5 +262,6 @@ If you encounter any issues or have questions:
 3. Review the API documentation at http://localhost:8000/docs
 
 ---
+
 
 **Happy Analyzing! 🎭✨**
